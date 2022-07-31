@@ -10,6 +10,12 @@ public class testcase1 {
 
         // more test
 
+        //negative test
+
+        // positivie testing
+
+
+
 
 
     }
